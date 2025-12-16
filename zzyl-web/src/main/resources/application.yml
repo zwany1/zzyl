@@ -92,8 +92,8 @@ zzyl:
       ttl: 3600000
     oss:
       endpoint: oss-cn-hangzhou.aliyuncs.com
-      accessKeyId: LTAI5t9K4R1tv4A96qyTEF28
-      accessKeySecret: 5r2EXNHx1IyZdWxYsewBl7YmFOmwmO
+      accessKeyId: your-access-key-id
+      accessKeySecret: your-access-key-id
       bucketName: zwyhmleadnews
   wechat:
     appId: wxa54e0997e8b6649e
@@ -102,8 +102,8 @@ zzyl:
 #    appId: wxa37ad44a9d9ab836
 #    appSecret: 85ef0e856bafed3eb55e279c3a48fa49
   aliyun:
-    accessKeyId: LTAI5t9K4R1tv4A96qyTEF28
-    accessKeySecret: 5r2EXNHx1IyZdWxYsewBl7YmFOmwmO
+    accessKeyId: {your-access-key-id}
+    accessKeySecret: {your-access-key-secret}
     consumerGroupId: DEFAULT_GROUP
 #    consumerGroupId: 0CP9WrqP8Q1lLaWFjli9000100
     regionId: cn-hangzhou
